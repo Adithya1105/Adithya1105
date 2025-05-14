@@ -14,26 +14,16 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" />
-  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" />
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" />
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-  
-</p>
+
+| Category              | Skills                                               |
+|-----------------------|------------------------------------------------------|
+| **Programming**       | Python, Java, JavaScript, ReactJs                         |
+| **Frameworks & APIs** | Spring Boot, Hibernate, React, TensorFlow, MobileNetV2 |
+| **Databases**         | MySQL                                                |
+| **DevOps & CI/CD**    | Docker, Kubernetes, Jenkins, Azure ACR               |
+| **Cloud Platforms**   | AWS, Azure                                           |
+| **Testing & QA**      | JUnit, Selenium                                      |
+| **Version Control**   | Git, Linux                                           |
 
 ---
 
@@ -95,4 +85,4 @@
 ## 🎉 Fun Facts
  
 - Tea enthusiast — I can tell you all about pour-overs ☕  
-- Amateur cricket player — always up for a match   
+- Amateur cricket player(Batsman) — always up for a match 🏏   
