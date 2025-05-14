@@ -17,7 +17,7 @@
 
 | Category              | Skills                                               |
 |-----------------------|------------------------------------------------------|
-| **Programming**       | Python, Java, JavaScript, ReactJs                         |
+| **Programming**       | Python, Java, JavaScript, C#, DataStructures                     |
 | **Frameworks & APIs** | Spring Boot, Hibernate, React, TensorFlow, MobileNetV2 |
 | **Databases**         | MySQL                                                |
 | **DevOps & CI/CD**    | Docker, Kubernetes, Jenkins, Azure ACR               |
